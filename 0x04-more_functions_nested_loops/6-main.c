@@ -10,7 +10,7 @@ int main(void)
 {       
         print_line(0);
         print_line(2);
-        print_line(14);
+        print_line(10);
         print_line(-4);
-        return (p)
+        return (0);
 }
