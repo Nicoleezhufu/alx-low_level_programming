@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_line - Draws astraight line according to parameter
- * @n: The nuber of lines to draw
+ * print_line - Draws a straight line according to parameter
+ * @n: The number of lines to draw
  * Return: empty
  */
 
